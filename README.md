@@ -32,5 +32,5 @@ OOP Concepts Covered
 - Class Methods
 - Polymorphism
 - Data Validation
-Author
+## Author
 Plabon Basak (https://github.com/Plabon-Basak)
